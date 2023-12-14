@@ -12,11 +12,15 @@
 -Deploying Our App to Production
 -Create Sign-up user account
 -Implemented sign in user api
--Implemented sign out feature
--update profile api call
--fetch movies from tmdb
 
 - Created Redux Store with userSlice
+  -Implemented sign out feature
+  -update profile
+  -BugFix- Sign up displayName and profile picture update
+  -BugFix - if the user is not login redirect /browse to login page and vice-versa
+-
+
+-
 
 # Features
 
