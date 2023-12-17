@@ -36,6 +36,10 @@
       -TMDB Image CDN_URL
       -Made the browse page beautifull using tailwind
       -useNowPlaying && usePopularMovies && useTopRatedMovies && useUpcomingMovies
+      -GPT search feature
+      -GPT Search Page
+      -Gpt Search Bar
+      -Multi-language feature in App
 
 # Features
 
