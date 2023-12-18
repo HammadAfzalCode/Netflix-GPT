@@ -27,3 +27,18 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "hindi", name: "Hindi" },
   { identifier: "spanish", name: "Spanish" },
 ];
+
+export const OPENAI_KEY = "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";
+// export const OPENAI_KEY = "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";
+
+const response = [
+  {
+    index: 0,
+    message: {
+      role: "assistant",
+      content: "Kabir Singh, Dangal, PK, Zindagi Na Milegi Dobara, Queen",
+    },
+    logprobs: null,
+    finish_reason: "stop",
+  },
+];
